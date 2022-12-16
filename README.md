@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio - Ada Kłoś
 
 ## Project 1: [Credit Card Eligibility](https://github.com/adaklos/Credit_Card_Eligibility)
 
