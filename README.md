@@ -30,8 +30,7 @@ Prediction were based on Default Payments of Credit Card Clients in Taiwan from 
  
  ![](/images/3.png)
  
- </br>
- </br>
+
 
 ## Project 2: [Of Genomes And Genetics](https://github.com/adaklos/Of_Genomes_And_Genetics)
 
