@@ -28,7 +28,7 @@ Prediction were based on Default Payments of Credit Card Clients in Taiwan from 
  </br> 
  </br>
  
- ![](https://github.com/adaklos/Portfolio/blob/main/images/3.png)
+ ![](/images/3.png)
  </br>
  </br>
 
@@ -61,4 +61,4 @@ Prediction were based on Default Payments of Credit Card Clients in Taiwan from 
  </br> 
  </br>
  
- ![](https://github.com/adaklos/Portfolio/blob/main/images/gen1.png)
+ ![](/images/gen1.png)
