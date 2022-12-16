@@ -25,8 +25,9 @@ Prediction were based on Default Payments of Credit Card Clients in Taiwan from 
 * *recursive feature elimination*
 * *piepelines*
 * *one hot encoder*
- </br> 
- </br>
+   </br> 
+   </br>
+ 
  
  ![](/images/3.png)
  
