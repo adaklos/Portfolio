@@ -26,6 +26,11 @@ Prediction were based on Default Payments of Credit Card Clients in Taiwan from 
 * *piepelines*
 * *one hot encoder*
  </br> 
+ </br>
+ 
+ ![](https://github.com/adaklos/Portfolio/blob/main/images/3.png)
+ </br>
+ </br>
 
 ## Project 2: [Of Genomes And Genetics](https://github.com/adaklos/Of_Genomes_And_Genetics)
 
@@ -54,3 +59,6 @@ Prediction were based on Default Payments of Credit Card Clients in Taiwan from 
 * *piepelines*
 * *one hot encoder*
  </br> 
+ </br>
+ 
+ ![](https://github.com/adaklos/Portfolio/blob/main/images/gen1.png)
