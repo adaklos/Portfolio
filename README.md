@@ -1,5 +1,8 @@
 # Portfolio - Ada Kłoś
 
+*Having a masters’ degree in bacterial genetics, I draw from my experience in biological research when working on Data Science projects. I see a great similarity between the scientific method used in natural sciences (such as data observation, forming research problems, stating hypotheses, conducting experiments, analyzing results, forming conclusions etc.) and various aspects of machine learning.
+I constantly strive to perfect my skills in data analysis, visualization and modeling as well as programming, machine learning and statistics.*
+
 ## Project 1: [Credit Card Eligibility](https://github.com/adaklos/Credit_Card_Eligibility)
 
 ### **About the project**
