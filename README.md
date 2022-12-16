@@ -1,38 +1,56 @@
 # Portfolio
 
-[**Project 1: Credit Card Eligibility**](https://github.com/adaklos/Credit_Card_Eligibility)
+## Project 1: [Credit Card Eligibility](https://github.com/adaklos/Credit_Card_Eligibility)
 
-The goal of the project was to create a model capable to establish if client applying for credit card is credible or not.
-Predictions were based on Default Payments of Credit Card Clients in Taiwan from 2005 dataset.
+### **About the project**
 
-Project consist of data cleaning, exploaratory data analysis, data preparation for machine learning algorithms, modeling, models evaluation and final conclusions.
-***
-Libraries used:
 
-pandas 
+*The goal was to create model capable of establishing if client applying for creadit card is credible or not. 
+Prediction were based on Default Payments of Credit Card Clients in Taiwan from 2005 dataset.*
 
-numpy
+*Project consist of data cleaning, exploaratory data analysis, data preparation for machine learning algorithms, modeling, models evaluation and final conclusions.*
 
-matplotlib.pyplot
 
-seaborn
+**Libraries used:** 
+*  *pandas*
+* *numpy*
+* *matplotlib.pyplot*
+* *seaborn*
+* *sklearn*
 
-sklearn
-***
+**Techniques used:** 
+* *binary classification modeling*
+* *grid search* 
+* *stratify shuffle split*
+* *recursive feature elimination*
+* *piepelines*
+* *one hot encoder*
+ </br> 
 
-***
+## Project 2: [Of Genomes And Genetics](https://github.com/adaklos/Of_Genomes_And_Genetics)
 
-Techniques used: 
 
-binary classification modeling
+### **About the project**
 
-grid search 
 
-stratify shuffle split
+*The project is based on* [HackerEarth Machine Learning Challenge](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-genetic-testing/).
+*The task was to precit genetics disorder and disorder subclass based on medical information about children who suffer from genetic disorders.*
 
-recursive feature elimination
+*The big part of the project was data cleaning and supplementation. There was also conducted exploaratory data analysis. Few models were trained and some problems with dataset were revealed.*
 
-piepelines
 
-one hot encoder
-***
+**Libraries used:** 
+*  *pandas*
+* *numpy*
+* *matplotlib.pyplot*
+* *seaborn*
+* *sklearn*
+
+**Techniques used:** 
+* *multiple classification modeling*
+* *grid search* 
+* *train test split*
+* *principal component analysis*
+* *piepelines*
+* *one hot encoder*
+ </br> 
